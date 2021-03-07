@@ -1,7 +1,7 @@
 # 👋🏻 Hi, my name is **Emil Jafarov**!
 ## I'm a beginner *Front-end developer* from Prague. 🇨🇿
 ### More about me: [Linkedin]() 
-[![Foo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcs.m.wikipedia.org%2Fwiki%2FSoubor%3ALinkedIn_Logo_2013.svg&psig=AOvVaw2Zju_MPV39LMYZYDA_OWvA&ust=1615243460718000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiy6Pmgn-8CFQAAAAAdAAAAABAD)](https://www.linkedin.com/in/ejafarow)
+[![Me](https://www.comeet.com/resources/wp-content/uploads/2019/03/linkedin-logo.png)](https://www.linkedin.com/in/ejafarow)
 
 ### Languages and Technologies 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
