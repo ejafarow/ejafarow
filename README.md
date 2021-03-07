@@ -1,6 +1,6 @@
 # 👋🏻 Hi, my name is **Emil Jafarov**!
 ## I'm a beginner *Front-end developer* from Prague. 🇨🇿
-### More about me: ![Linkedin](https://www.linkedin.com/in/ejafarow) 
+### More about me: [Linkedin](https://www.linkedin.com/in/ejafarow) 
 ### Languages and Technologies 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
