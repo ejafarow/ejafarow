@@ -8,7 +8,9 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 
  📫 How to reach me:  ejafarow@outlook.com
+ 
  🌐 Telegram: [ejafarow](https://t.me/ejafarow)
+ 
  :books: Books list [LiveLib](https://www.livelib.ru/reader/ejafarow/read)
 
 - :rocket: I’m currently working on MoGo Project
