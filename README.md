@@ -1,16 +1,24 @@
-### Hi there 👋
+# 👋🏻 Hi, my name is **Emil Jafarov**!
+## I'm a beginner *Front-end developer* from Prague. :cz:
+### More about me: [linked.in](https://www.linkedin.com/in/ejafarow) 
+### Languages and Technologies 
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+![Bootstrap]
+### 📫 How to reach me:  lentsd@bk.ru
+### 🌐 Telegram, Instagram: @lentsd
+### :books: Books list ![Books] (https://www.livelib.ru/reader/ejafarow/read)
+> A good book is like a conversation with a smart person. <br/>
+> ***Leo Tolstoy***
 
-<!--
-**ejafarow/ejafarow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- :rocket: I’m currently working on MoGo Project
+- 🌱 I’m currently learning React.js
+- :chart_with_upwards_trend: I’m looking job opportunities
+
+...
+
