@@ -15,10 +15,10 @@
  
  :books: &nbsp; Books list [LiveLib](https://www.livelib.ru/reader/ejafarow/read)
 
-- :rocket: I’m currently working on MoGo Project
-- 🌱 I’m currently learning React.js
-- :chart_with_upwards_trend: I’m looking job opportunities
+- :rocket: &nbsp; I’m currently working on MoGo Project
+- 🌱  &nbsp; I’m currently learning React.js
+- :chart_with_upwards_trend:  &nbsp; I’m looking job opportunities
 
-:book:  “Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you. For everyone who asks receives, and the one who seeks finds, and to the one who knocks it will be opened.”
+:book: &nbsp; “Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you. For everyone who asks receives, and the one who seeks finds, and to the one who knocks it will be opened.”
 ‭‭Matthew‬ ‭7:7-8‬ ‭ESV‬‬
 
