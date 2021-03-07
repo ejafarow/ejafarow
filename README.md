@@ -8,8 +8,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![Bootstrap]
 ### 📫 How to reach me:  ejafarow@outlook.com
-### 🌐 Telegram: ![ejafarow] (https://t.me/ejafarow)
-### :books: Books list ![Books] (https://www.livelib.ru/reader/ejafarow/read)
+### 🌐 Telegram: [ejafarow](https://t.me/ejafarow)
+### :books: Books list ![Books](https://www.livelib.ru/reader/ejafarow/read)
 
 - :rocket: I’m currently working on MoGo Project
 - 🌱 I’m currently learning React.js
