@@ -11,6 +11,8 @@
  
  🌐 Telegram: [ejafarow](https://t.me/ejafarow)
  
+ :camera: Instagram [ejafarow](https://www.instagram.com/ejafarow/)
+ 
  :books: Books list [LiveLib](https://www.livelib.ru/reader/ejafarow/read)
 
 - :rocket: I’m currently working on MoGo Project
