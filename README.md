@@ -7,13 +7,13 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 
- 📫 How to reach me:  ejafarow@outlook.com
+ 📫  How to reach me:  ejafarow@outlook.com
  
- 🌐 Telegram: [ejafarow](https://t.me/ejafarow)
+ 🌐  Telegram: [ejafarow](https://t.me/ejafarow)
  
- :camera: Instagram [ejafarow](https://www.instagram.com/ejafarow/)
+ :camera:  Instagram [ejafarow](https://www.instagram.com/ejafarow/)
  
- :books: Books list [LiveLib](https://www.livelib.ru/reader/ejafarow/read)
+ :books:  Books list [LiveLib](https://www.livelib.ru/reader/ejafarow/read)
 
 - :rocket: I’m currently working on MoGo Project
 - 🌱 I’m currently learning React.js
