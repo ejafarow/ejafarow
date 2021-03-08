@@ -19,7 +19,7 @@
  :books: &nbsp; Books list [LiveLib](https://www.livelib.ru/reader/ejafarow/read)
 
 - :rocket: &nbsp; I’m currently working on MoGo Project
-- 🌱  &nbsp; I’m currently learning React.js
+- 🌱  &nbsp; I’m currently learning Webpack
 - :chart_with_upwards_trend:  &nbsp; I’m looking job opportunities
 
 :book: &nbsp; “Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you. For everyone who asks receives, and the one who seeks finds, and to the one who knocks it will be opened.”
