@@ -7,7 +7,7 @@
 ![jQuery](https://img.shields.io/badge/-jquery-090909?style=for-the-badge&logo=jquery)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=bootstrap5)
+![Bootstrap](https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=Bootstrap)
 ![Sass](https://img.shields.io/badge/-sass-090909?style=for-the-badge&logo=sass)
 
  📫  &nbsp; How to reach me:  ejafarow@outlook.com
