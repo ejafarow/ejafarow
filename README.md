@@ -10,7 +10,7 @@
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=Bootstrap)
 ![Sass](https://img.shields.io/badge/-sass-090909?style=for-the-badge&logo=sass)
 
- 📫  &nbsp; How to reach me:  ejafarow@outlook.com
+ 📫  &nbsp; How to reach me: isijafar@gmail.com
  
  🌐  &nbsp; Telegram: [ejafarow](https://t.me/ejafarow)
  
@@ -19,9 +19,5 @@
  :books: &nbsp; Books list [LiveLib](https://www.livelib.ru/reader/ejafarow/read)
 
 - :rocket: &nbsp; I’m currently working on MoGo Project & Social Network website in React
-- 🌱  &nbsp; I’m currently learning Webpack
-- :chart_with_upwards_trend:  &nbsp; I’m looking job opportunities
-#
-> :book: &nbsp; “Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you. For everyone who asks receives, and the one who seeks finds, and to the one who knocks it will be opened.”
-‭‭Matthew‬ ‭7:7-8‬ ‭ESV‬‬
+- 🌱  &nbsp; I’m currently learning PHP
 
