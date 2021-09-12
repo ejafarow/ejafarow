@@ -2,6 +2,7 @@
 ## I'm a beginner *Web developer* from Prague. 🇨🇿
 ### More about me: [Linkedin](https://www.linkedin.com/in/ejafarow)
 ### Languages and Technologies 
+![JavaScript](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
 ![jQuery](https://img.shields.io/badge/-jquery-090909?style=for-the-badge&logo=jquery)
