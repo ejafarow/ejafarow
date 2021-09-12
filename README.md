@@ -4,6 +4,7 @@
 ### Languages and Technologies 
 ![JavaScript](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP)
 ![JavaScript](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql)
+![JavaScript](https://img.shields.io/badge/-laravel-090909?style=for-the-badge&logo=laravel)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
 ![jQuery](https://img.shields.io/badge/-jquery-090909?style=for-the-badge&logo=jquery)
