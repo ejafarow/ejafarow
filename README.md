@@ -12,8 +12,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=Bootstrap)
 ![Sass](https://img.shields.io/badge/-sass-090909?style=for-the-badge&logo=sass)
-![JavaScript](https://img.shields.io/badge/-mvc-090909?style=for-the-badge&logo=mvc)
-![JavaScript](https://img.shields.io/badge/-oop-090909?style=for-the-badge&logo=oop)
 ![JavaScript](https://img.shields.io/badge/-composer-090909?style=for-the-badge&logo=composer)
 ![JavaScript](https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker)
 
