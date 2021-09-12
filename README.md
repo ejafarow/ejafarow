@@ -23,6 +23,4 @@
  
  :books: &nbsp; Books list [LiveLib](https://www.livelib.ru/reader/ejafarow/read)
 
-- :rocket: &nbsp; I’m currently working on MoGo Project & Social Network website in React
-- 🌱  &nbsp; I’m currently learning PHP
 
