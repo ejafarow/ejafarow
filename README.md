@@ -12,8 +12,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=Bootstrap)
 ![Sass](https://img.shields.io/badge/-sass-090909?style=for-the-badge&logo=sass)
-![JavaScript](https://img.shields.io/badge/-composer-090909?style=for-the-badge&logo=composer)
-![JavaScript](https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker)
+![composer](https://img.shields.io/badge/-composer-090909?style=for-the-badge&logo=composer)
+![docker](https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker)
 
  📫  &nbsp; How to reach me: isijafar@gmail.com
  
