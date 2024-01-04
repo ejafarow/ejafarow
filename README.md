@@ -10,6 +10,7 @@
 ![jQuery](https://img.shields.io/badge/-jquery-090909?style=for-the-badge&logo=jquery)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=Bootstrap)
 ![Sass](https://img.shields.io/badge/-sass-090909?style=for-the-badge&logo=sass)
+![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 
 
  📫  &nbsp; How to reach me: isijafar@gmail.com
