@@ -72,6 +72,7 @@
 ![Windows NT](https://img.shields.io/badge/Windows%20NT-%230079d5.svg?style=for-the-badge&logo=Windows%2NT&logoColor=white)
 ![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![Windows 7](https://img.shields.io/badge/Windows%207-%230079d5.svg?style=for-the-badge&logo=Windows%207&logoColor=white)
 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
