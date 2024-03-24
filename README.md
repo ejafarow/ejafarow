@@ -1,4 +1,4 @@
-# 👋🏻 Hi, my name is **Islam Jafarov**!
+# 👋🏻 Hi, my name is **Emil Jafarov**!
 ## I'm a *Web developer* from Prague. 🇨🇿
 ### More about me: [Linkedin](https://www.linkedin.com/in/ejafarow)
 
@@ -89,10 +89,5 @@
 
  📫  &nbsp; How to reach me: isijafar@gmail.com
  
- 🌐  &nbsp; Telegram: [ejafarow](https://t.me/ejafarow)
- 
- :camera: &nbsp; Instagram [ejafarow](https://www.instagram.com/ejafarow/)
- 
- :books: &nbsp; Books list [LiveLib](https://www.livelib.ru/reader/ejafarow/read)
 
 
