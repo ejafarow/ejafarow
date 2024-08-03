@@ -68,11 +68,12 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows 95](https://img.shields.io/badge/Windows%2095-008484?style=for-the-badge&logo=windows95&logoColor=white)
-![Windows 95](https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white)
+![Windows 95](https://img.shields.io/badge/Windows%2095-008080?style=for-the-badge&logo=windows-95&logoColor=white)
 ![Windows 98](https://img.shields.io/badge/Windows%2098-%230079d5.svg?style=for-the-badge&logo=Windows%2098&logoColor=white)
 ![Windows 2000](https://img.shields.io/badge/Windows%202000-008484?style=for-the-badge&logo=windows202000&logoColor=white)
 ![Windows NT](https://img.shields.io/badge/Windows%20NT-%230079d5.svg?style=for-the-badge&logo=Windows%2NT&logoColor=white)
 ![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
+![Windows XP](https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Windows 7](https://img.shields.io/badge/Windows%207-%230079d5.svg?style=for-the-badge&logo=Windows%207&logoColor=white)
 
