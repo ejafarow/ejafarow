@@ -1,5 +1,5 @@
 # 👋🏻 Hi, my name is **Emil Jafarov**!
-## I'm a *Web developer* from Prague. 🇨🇿
+## I'm a *Software Engineer* from Prague. 🇨🇿
 ### More about me: [Linkedin](https://www.linkedin.com/in/ejafarow)
 
 ### Languages and Technologies 
