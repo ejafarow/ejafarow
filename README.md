@@ -17,7 +17,7 @@
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=Bootstrap)
 ![Sass](https://img.shields.io/badge/-sass-090909?style=for-the-badge&logo=sass)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
+![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=Black)
 
 ### Technologies
 
