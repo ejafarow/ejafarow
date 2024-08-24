@@ -15,7 +15,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 
-### Technologies
+### Tech
 ![iTerm2](https://img.shields.io/badge/iTerm2-00C7B7?style=for-the-badge&logo=iTerm2&logoColor=white)
 ![vim](https://img.shields.io/badge/vim-00C7B7?style=for-the-badge&logo=vim&logoColor=white)
 
