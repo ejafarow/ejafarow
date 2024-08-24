@@ -2,7 +2,7 @@
 ## I'm a *Software Engineer* from Prague. 🇨🇿
 ### More about me: [Linkedin](https://www.linkedin.com/in/ejafarow)
 
-### Languages  
+### Stack  
 
 ![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=c)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
