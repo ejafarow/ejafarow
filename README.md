@@ -1,4 +1,4 @@
-# 👋🏻 Hi, my name is **Emil Jafarov**!
+# 👋🏻 Hi, my name is **Islam (Emil) Jafarov**!
 ## I'm a *Software Engineer* from Prague. 🇨🇿
 ### More about me: [Linkedin](https://www.linkedin.com/in/ejafarow)
 
