@@ -1,5 +1,5 @@
 # 👋🏻 Hi, my name is **Islam (Emil) Jafarov**!
-## I'm a *Software Engineer* from Prague. 🇨🇿
+## I'm a *Frontend Web Developer* from Prague. 🇨🇿
 ### More about me: [Linkedin](https://www.linkedin.com/in/ejafarow)
 
 ### Stack  
