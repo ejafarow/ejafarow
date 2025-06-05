@@ -1,8 +1,8 @@
 # 👋🏻 Hi, my name is **Islam Jafarov**!
-## I'm a *Frontend Web Developer* from Prague. 🇨🇿
-### More about me: [Linkedin](https://www.linkedin.com/in/ejafarow)
+## 💻 I'm a *Frontend Web Developer* from Prague. 🇨🇿
+### 💁‍♂️ More about me: [Linkedin](https://www.linkedin.com/in/ejafarow) 🔗
 
-### Stack  
+### Stack 🖥️
 
 
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
