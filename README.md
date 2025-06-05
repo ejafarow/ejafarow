@@ -1,4 +1,4 @@
-# 👋🏻 Hi, my name is **Islam (Emil) Jafarov**!
+# 👋🏻 Hi, my name is **Islam Jafarov**!
 ## I'm a *Frontend Web Developer* from Prague. 🇨🇿
 ### More about me: [Linkedin](https://www.linkedin.com/in/ejafarow)
 
