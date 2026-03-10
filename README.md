@@ -19,7 +19,6 @@
 [![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)](#)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
-[!REST](https://img.shields.io/badge/rest-40AEF0?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%&logoColor=white) (#)
 
 ### 🎨 Design
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
