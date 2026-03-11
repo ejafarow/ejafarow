@@ -61,7 +61,7 @@
 ### 📞 How to reach me:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/ejafarow)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)(mailto: isijafar@gmail.com)]
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:isijafar@gmail.com)
  
 
 
