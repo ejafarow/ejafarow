@@ -1,5 +1,5 @@
 # 👋🏻 Hi, my name is **Emil Jafarov**!
-## 💻 I'm a *Frontend Developer* from Prague. 🇨🇿  More about me: [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/ejafarow)
+## 💻 I'm a *Frontend Developer* from Prague. 🇨🇿  More about me: [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/emiljafarow)
 
 
 ### 🧑‍💻 Programming Language & Tools
