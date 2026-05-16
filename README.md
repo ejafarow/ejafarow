@@ -1,5 +1,5 @@
 # 👋🏻 Hi, my name is **Emil Jafarov**!
-## 💻 I'm a *Accountant* from Prague. 🇨🇿  More about me: [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/emiljafarow)
+## 💻 I'm a *Financial Accountant* from Prague. 🇨🇿  More about me: [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/emiljafarow)
 
 ### 🤖 AI [![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#) [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#) [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
 ### ✏️ Blog [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](#) [![Tumblr](https://img.shields.io/badge/Tumblr-%2336465D.svg?logo=tumblr&logoColor=white)](#)
